@@ -1,5 +1,5 @@
-No-Alt-Mouse-Wheel
-===========
+No-Alt-Mouse-Wheel Chrome Extension
+===================================
 
 Prevent mouse wheel scrolling if alt is pressed.
 
