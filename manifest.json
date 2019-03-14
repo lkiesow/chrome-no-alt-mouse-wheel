@@ -3,7 +3,7 @@
 
   "name": "No-Alt-Mouse-Wheel",
   "description": "Prevent mouse wheel scrolling if alt is pressed",
-  "version": "0.1",
+  "version": "0.2",
   "author": "Lars Kiesow",
   "homepage_url": "https://github.com/lkiesow/chromw-no-alt-mouse-wheel",
 
